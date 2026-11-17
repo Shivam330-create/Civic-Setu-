@@ -116,7 +116,6 @@ pytest
 
 ## Team
 
-- [Your Name] - [Roll No]
-- [Partner Name] - [Roll No]
+- [Shivam Meena] - [2025KUAD3028]
 
-Guide: [Professor Name]
+Guide: [Pooja Sharma]
